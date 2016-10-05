@@ -1,5 +1,5 @@
 # qmSolver
-Solves 1d Time Independent Schrodinger Equation for an arbitrary potential
+Solves the Hamiltonian of the time Independent Schrodinger Equation for an arbitrary potential
 
 function qmSolver(x, V, m, num)
 
