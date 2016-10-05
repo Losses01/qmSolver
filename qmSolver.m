@@ -31,7 +31,8 @@ end
 %%%%% Time-Independent Schrodinger Eqn
 %%% d^2(u(x)/dx^2 + (2m / hBar) * (E-V(x))*u(x) = 0
 %%%%% 
-%%%% Will use the Hamiltonian Instead
+%%%% Will Solve the Hamiltonian to get values of the 
+%%%% energy of the system
 
 %%%% H*U(x,t) = i*hbar* d/dt(U(x,t))
 %%%% Hamiltonian is equal to:
