@@ -40,10 +40,6 @@ end
 
 % Get stepSize (assume evenly spaced)
 
-
-%%%% Using Method from
-%  https://wiki.physics.udel.edu/phys824/Discretization_of_1D_Hamiltonian
-
 a = x(2) - x(1);
 t = (hbar)^2 /(2*m*a^2);
 
